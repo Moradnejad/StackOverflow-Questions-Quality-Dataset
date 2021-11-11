@@ -1,7 +1,5 @@
 # StackOverflow-Questions-Quality-Dataset
 
-This is an original dataset, made publicly available for researchers.
-
 We collected 60,000 Stack Overflow questions from 2016-2020 and classified them into three categories: 
 
 1. HQ: High-quality posts without a single edit.
@@ -14,6 +12,9 @@ We collected 60,000 Stack Overflow questions from 2016-2020 and classified them 
 - All dates are in UTC format. 
 
 ## How to cite
+
+This is an original dataset. Please cite this work if you are going to use it in your research (see below).
+
 ```
 @article{annamoradnejad2020multiview,
   title={Multi-View Approach to Suggest Moderation Actions in Community Question Answering Sites},
