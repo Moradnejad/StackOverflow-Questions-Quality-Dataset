@@ -13,7 +13,7 @@ We collected 60,000 Stack Overflow questions from 2016-2020 and classified them 
 
 ## How to cite
 
-This is an original dataset. Please cite this work if you are going to use it in your research (see below).
+This is an original dataset, published under MIT License. Please cite the dataset for your usage as the following:
 
 ```
 @article{annamoradnejad2020multiview,
