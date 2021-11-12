@@ -9,7 +9,8 @@ We collected 60,000 Stack Overflow questions from 2016-2020 and classified them 
 ## Notes
 - Questions are sorted according to Question Id.
 - Question body is in HTML format.
-- All dates are in UTC format. 
+- All dates are in UTC format.
+- The dataset is also accessible at https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate 
 
 ## How to cite
 
