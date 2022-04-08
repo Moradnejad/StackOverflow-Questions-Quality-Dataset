@@ -17,9 +17,15 @@ We collected 60,000 Stack Overflow questions from 2016-2020 and classified them 
 This is an original dataset, published under MIT License. Please cite the dataset for your usage as the following:
 
 ```
-@article{annamoradnejad2020multiview,
+@article{annamoradnejad2022multiview,
   title={Multi-View Approach to Suggest Moderation Actions in Community Question Answering Sites},
   author={Annamoradnejad, Issa and Habibi, Jafar and Fazli, Mohammadamin},
-  year={2020},
+  journal = {Information Sciences},
+  volume = {600},
+  pages = {144-154},
+  year = {2022},
+  issn = {0020-0255},
+  doi = {https://doi.org/10.1016/j.ins.2022.03.085},
+  url = {https://www.sciencedirect.com/science/article/pii/S0020025522003127}
 }
 ```
